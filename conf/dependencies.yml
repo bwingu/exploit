@@ -1,0 +1,4 @@
+self: play -> exploit 0.1
+
+require:
+    - play
